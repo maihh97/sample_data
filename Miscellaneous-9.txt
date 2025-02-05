@@ -1,0 +1,1 @@
+device recovery report printer alert duplex unit is not set device recovery report printer duplex unit printer details detected tray tray copier details detected tray scanner ready details model name device name comment host name printer name print name file name printer name zone name name computer name share name device printer printer notified
