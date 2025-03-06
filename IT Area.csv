@@ -1,0 +1,41 @@
+IT Area,IT Sub Area,IT Sub Area ID
+BU Support,Distribution,3
+BU Support,Development,7
+BU Support,Core,8
+BU Support,Emerging,9
+BU Support,Planning,21
+BU Support,Manufacturing,22
+BU Support,Production,28
+BU Support,R&D,33
+Enablement,Business Intelligence,4
+Enablement,Data Management,6
+Enablement,Enterprise Capabilities,10
+Enablement,Portals,11
+Enablement,EIM,16
+Enablement,Innovation,18
+Enablement,Document Management,20
+Enablement,Mobility,23
+Enablement,Six Sigma,36
+Enablement,Solution Services,37
+Infrastructure,Data Centers,5
+Infrastructure,SSO,15
+Infrastructure,Core Infrastructure,17
+Infrastructure,Licensing,25
+Infrastructure,Networking,27
+Infrastructure,Help Desk,35
+Infrastructure,Hosting,40
+Infrastructure,Productivity,41
+Governance,Architecture,2
+Governance,Administration,14
+Governance,GRC,24
+Governance,Portfolio Management,30
+Governance,Process Management,31
+Governance,Quality & Compliance,32
+Governance,Security & Risk Management,34
+Governance,Vendor Management,38
+Governance,Other,29
+Functional,R1,1
+Functional,R2,12
+Functional,R3,13
+Functional,R4,19
+Functional,R5,39
